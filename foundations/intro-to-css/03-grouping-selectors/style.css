@@ -1,0 +1,14 @@
+.first-click-btn {
+  background-color: black;
+  color: white;
+}
+
+.second-click-btn {
+  background-color: yellow;
+}
+
+.first-click-btn, 
+.second-click-btn {
+  font-size: 28px;
+  font-family: Verdana, 'Times New Roman', sans-serif;
+}
